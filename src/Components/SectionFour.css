@@ -1,0 +1,38 @@
+.last_session {
+    position: relative;
+    top: 575px;
+    left: -549px;
+    width: 577px;
+    height: 148px;
+    display: flex;
+    gap: 10px;
+    
+}
+
+.last_session .onest {
+    width: 185px;
+    height: 148px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+
+.onest textarea {
+    width: 165px;
+    height: 116px;
+}
+
+.last_session .twond {
+    width: 383px;
+    height: 148px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.twond textarea {
+    width: 353px;
+    height: 122px;
+}
